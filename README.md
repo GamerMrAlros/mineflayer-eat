@@ -1,6 +1,6 @@
 How to install
 ```
-npm i @fourterms2/mineflayer-eat
+npm i mineflayer-eat
 ```
 
 example code:
