@@ -1,3 +1,7 @@
+Hawing problems
+```
+open a ticket in pull requiests
+```
 How to install
 ```
 npm i mineflayer-eat
