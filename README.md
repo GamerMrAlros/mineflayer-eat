@@ -29,3 +29,7 @@ my github
 ```
 https://github.com/GamerMrAlros/mineflayer-totem
 ```
+my npm
+```
+https://www.npmjs.com/package/mineflayer-eat
+```
